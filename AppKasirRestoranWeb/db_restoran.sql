@@ -64,7 +64,7 @@ CREATE TABLE `tb_level` (
 --
 
 INSERT INTO `tb_level` (`id_level`, `level`) VALUES
-(1, 'Koki'),
+(1, 'Admin'),
 (2, 'Waiter'),
 (3, 'Kasir'),
 (4, 'owner'),
